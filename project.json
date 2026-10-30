@@ -1,0 +1,22 @@
+{
+  "name": "destiny-2-companion-dashboard",
+  "displayName": "Destiny 2 Companion Dashboard",
+  "programType": "companion-dashboard",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Activity notes",
+    "Gear groups",
+    "Daily planning"
+  ],
+  "topics": [
+    "destiny-2-companion-dashboard",
+    "destiny-2-tools",
+    "destiny-2-menu",
+    "destiny-2-settings",
+    "destiny-2-configs",
+    "destiny-2-activity-notes",
+    "destiny-2-gear-groups"
+  ]
+}
